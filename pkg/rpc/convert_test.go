@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	jsonv2 "encoding/json/v2"
+	jsonv2 "encoding/json"
 	"testing"
 	"time"
 
